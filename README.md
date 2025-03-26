@@ -1,10 +1,10 @@
 ### Домашние задания на курсе «Python: программирование на каждый день и сверхбыстрое прототипирование»
 1. Введение. Основы Python.
-  * [Python. Знакомство с консолью](https://github.com/Elena-Yakovleva/Python-project-/tree/main/lection1)
-    * [Условия задач](https://github.com/Elena-Yakovleva/Python-project-/blob/main/lection1/task/README.md)
-      * [Hello, World!](https://github.com/Elena-Yakovleva/Python-project-/blob/main/lection1/task/task1.py)
-      * [Квадрат и прямоугольник.](https://github.com/Elena-Yakovleva/Python-project-/blob/main/lection1/task/task2.py)
-      * [Расчет остатка зп.](https://github.com/Elena-Yakovleva/Python-project-/blob/main/lection1/task/task3.py)
+  * [Python. Знакомство с консолью](https://github.com/Elena-Yakovleva/Python-project/blob/main/lection1/README.md)
+    * [Условия задач](https://github.com/Elena-Yakovleva/Python-project/blob/main/lection1/task/README.md)
+      * [Hello, World!](https://github.com/Elena-Yakovleva/Python-project/blob/main/lection1/task/task1.py)
+      * [Квадрат и прямоугольник.](https://github.com/Elena-Yakovleva/Python-project/blob/main/lection1/task/task2.py)
+      * [Расчет остатка зп.](https://github.com/Elena-Yakovleva/Python-project/blob/main/lection1/task/task3.py)
   * [Условные конструкции. Операции сравнения]()
     * [Условия задач]()
       * []()
