@@ -35,3 +35,5 @@ elif month == 'январь' and 21 <= day <= 31 or month == 'февраль' an
   print( 'Ваш знак зодиака: Водолей')
 elif month == 'февраль' and 20 <= day <= 29 or month == 'март' and 1 <= day <= 20:
   print( 'Ваш знак зодиака: Рыбы')
+else:
+  print('Знак зодиака не найден')
