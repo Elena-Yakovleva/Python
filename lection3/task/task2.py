@@ -30,11 +30,11 @@ cook_book = [
 ]
 person = int(input('Введите количество персон: '))
 
-for food in cook_book:
-  x = 0
-  print(f' Блюдо: {food[x].capitalize()} на {person} человек. \n')
-  x += 1
+for food, ingredients in cook_book:
+  print(f' Блюдо: {food.capitalize()} на {person} человек. \n')
+
   print(' Ингридиенты:')
-  for ingridient in food[x]:
-    print(f' {ingridient[0]} {ingridient[1]*person} {ingridient[2]}')
+
+  for ingredient in ingredients:
+     print(f' {ingredient[0]} {ingredient[1]*person} {ingredient[2]}')
   print()
