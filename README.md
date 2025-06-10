@@ -14,7 +14,7 @@
     * [Условия задач](https://github.com/Elena-Yakovleva/Python-project/blob/main/lection3/task/README.md)
       * [Список пар](https://github.com/Elena-Yakovleva/Python-project/blob/main/lection3/task/tast1.py)
       * [Количество ингредиентов для блюда](https://github.com/Elena-Yakovleva/Python-project/blob/main/lection3/task/task2.py)
-  * [Коллекции данных.Словари.Множества]()
+  * [Коллекции данных.Словари.Множества](https://github.com/Elena-Yakovleva/Python/blob/main/lection4/README.md)
     * [Условия задач]()
       * []()
       * []()
